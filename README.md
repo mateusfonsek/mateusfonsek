@@ -1,62 +1,45 @@
-<h1 align="left">Mateus Fonseca</h1>
-<p align="left"><strong>Python Backend & GenAI Engineer</strong></p>
+## I'm Mateus, nice to meet you!&nbsp;<picture><img alt="" src="resources/wave.gif" width="22px"></picture>
 
-<p align="left">
-  <a href="mailto:mateusfonsecafs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mateusfonsecafs%40gmail.com-333?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mateusfonsecafs/">
-    <img src="https://img.shields.io/badge/LinkedIn-mateusfonsecafs-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mateusfonsek">
-    <img src="https://img.shields.io/badge/GitHub-mateusfonsek-111?logo=github&logoColor=white" />
-  </a>
-</p>
+**AI &amp; Software Engineer**<br/>
+<sub>forever curious about where AI is headed</sub>
+
+<a href="mailto:mateusfonsecafs@gmail.com"><img alt="" src="https://img.shields.io/badge/Gmail-555?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mateusfonsecafs/"><img alt="" src="https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 ---
 
-### Summary
-Computer Science @ UFPB (2022–2026). I build robust Python backends and GenAI systems: LLM orchestration (RAG, Text-to-SQL, MCP), asynchronous pipelines, and production observability (metrics, logs, tracing, alerting).
+### A few things about me
+
+- 🤖 &nbsp;**AI & software engineer** — building things that make life easier and a bit smarter
+- 🎨 &nbsp;**UX enthusiast** — exploring how human behavior shapes great products
+- ✨ &nbsp;**creative perfectionist** — can't rest until every detail feels right
+- 🤓 &nbsp;**forever curious** — always learning something new (and probably too many browser tabs open)
+- ♟️ &nbsp;**chess player** — rarely lose a match, so think twice before challenging me
 
 ---
 
-## Tech Stack
+### Tech
 
-### Backend
-<div>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,ruby" />
-</div>
-<p><strong>Python · Django · FastAPI · Flask · Ruby</strong></p>
+**Languages & Frameworks**<br/>
+<img alt="" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img alt="" src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
-### Data & Messaging
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq" />
-</div>
-<p><strong>PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ</strong></p>
-
-
-
-### Observability & Alerts
-<div>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
-</div>
-<p><strong>Prometheus · Grafana · Alertmanager</strong></p>
-
-### Infra & DevOps
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git" />
-</div>
-<p><strong>Docker · Kubernetes · Linux · Git</strong></p>
-
-
-### Languages
-<p><strong>Portuguese:</strong> Fluent &nbsp;•&nbsp; <strong>English:</strong> Intermediate</p>
+**Cloud & DevOps**<br/>
+<img alt="" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+<img alt="" src="https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img alt="" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 
 ---
 
-## Experience (summary)
-- **GenAI / Backend:** LLM orchestration (RAG, Text-to-SQL, MCP), APIs with FastAPI/Django, asynchronous pipelines, caching, and persistence layers (SQL/NoSQL).
-- **Observability:** Metrics and alerting with Prometheus/Alertmanager, Grafana dashboards; incident automations.
+### Currently
 
----
-
+🌱 &nbsp;Building projects around AI — *coming soon*.
